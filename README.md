@@ -1,1 +1,1 @@
-<a href= "https://marziamahjabin.github.io/TextToSpeech/" >Live Demo</a>
+<a href= "https://marziamahjabin.github.io/TextToSpeech/" target = "_blank">Live Demo</a>
