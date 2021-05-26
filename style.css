@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+*{margin: 0;padding: 0}
+
+body{
+  background: url('wp2561075.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1170px;
+  margin: auto;
+  font-family: 'Poppins';
+}
+input.input {
+    outline: none;
+    border: none;
+    font-size: 1.4rem;
+    color: #69bfcd;
+    text-align: center;
+    background: #ffffff94;
+    width: 50%;
+    display: block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 100px;
+    height: 50px;
+    border-bottom: 3px solid #c69696;
+    border-radius: 5px;
+}
+
+
+button.button {
+    outline: none;
+    border: none;
+    width: 17%;
+    display: block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 50px;
+    height: 46px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    background: #c2a9ff8a;
+    color: white;
+    transition: 0.4s;
+}
+button.button:hover {
+    background: #ffb67f;
+    color: #cc2519;
+    font-size: 1.4rem;
+}
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+;
